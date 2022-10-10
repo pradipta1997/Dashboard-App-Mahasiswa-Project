@@ -1,0 +1,9 @@
+My Wizard University Web Interface | Admin Configuration
+
+Program Language : HTML5, CSS3, Javascript, jQuery Font-Awesome(support)
+Code Editor	 : Visual Studio 2020
+Font Face	 : Sans-serif
+Base Color	 : Black & Yellow
+Image Source	 : -
+Music By	 : Harry Potter (The Chamber Room)
+Category	 : Front-End & Back-End
